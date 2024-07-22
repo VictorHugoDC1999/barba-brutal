@@ -1,3 +1,4 @@
-export const somar = (a: number, b: number) => {
-  return a + b;
-};
+export * from './constants';
+export * from './profissional';
+export * from './servico';
+export * from './usuario';
