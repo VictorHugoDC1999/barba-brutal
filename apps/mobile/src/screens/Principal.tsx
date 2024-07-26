@@ -1,7 +1,7 @@
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { StyleSheet, Text, View } from 'react-native';
 import Inicio from './Inicio';
-import Agendamento from './Agendamentos';
+import Agendamento from './Agendamento';
 import Usuario from './Usuario';
 import Icone from '../components/shared/Icone';
 
